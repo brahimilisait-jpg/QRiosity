@@ -1,0 +1,24 @@
+
+# Configuration personnelle
+.env
+
+# Dépendances
+/vendor/
+
+# Fichiers temporaires
+/writable/cache/*
+/writable/logs/*
+/writable/session/*
+/writable/uploads/*
+
+# IDE
+.vscode/
+.idea/
+
+# Système
+.DS_Store
+Thumbs.db
+
+
+# Fichiers de configuration sensibles
+/app/Config/Database.php

@@ -1,0 +1,17 @@
+# Fichiers sensibles
+.env
+**/.env
+
+# Configuration contenant des identifiants
+**/Database.php
+
+# Fichiers temporaires
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+
+**/Database.php.save
+
+**/writable/debugbar/*
